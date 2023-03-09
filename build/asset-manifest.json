@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.c4234c8b.js",
-    "index.html": "/index.html",
-    "main.c4234c8b.js.map": "/static/js/main.c4234c8b.js.map"
+    "main.js": "/movie-app-practice/static/js/main.c4234c8b.js",
+    "index.html": "/movie-app-practice/index.html",
+    "main.c4234c8b.js.map": "/movie-app-practice/static/js/main.c4234c8b.js.map"
   },
   "entrypoints": [
     "static/js/main.c4234c8b.js"
